@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "fabolous-website-frontend",
+=======
+  "name": "fabolous-website-backend",
+>>>>>>> e2ca799 (first commit)
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,10 +14,23 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-redux": "^9.1.2",
     "redux": "^5.0.1",
     "tailwindcss": "^3.4.14"
+=======
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+>>>>>>> e2ca799 (first commit)
   }
 }
